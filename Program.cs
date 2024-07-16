@@ -19,6 +19,17 @@ string[,] ourAnimals = new string[maxPets, 6];
 // create some initial ourAnimals array entries
 for (int i = 0; i < maxPets; i++)
 {
+    switch(i)
+    {
+        case 0:
+            animalSpecies = "dog";
+            animalID = "d1";
+            animalAge = "2";
+            animalPhysicalDescription = "medium sized cream colored female golden retriever weighing about 65 pounds. housebroken.";
+            animalPersonalityDescription = "loves to have her belly rubbed and likes to chase her tail. gives lots of kisses.";
+            animalNickname = "lola";
+            break;
+    }
     if (i == 0)
     {
         animalSpecies = "dog";
