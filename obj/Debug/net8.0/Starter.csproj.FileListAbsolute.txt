@@ -12,3 +12,4 @@ C:\Users\Joel\Desktop\ContosoPetsApp\obj\Debug\net8.0\refint\Starter.dll
 C:\Users\Joel\Desktop\ContosoPetsApp\obj\Debug\net8.0\Starter.pdb
 C:\Users\Joel\Desktop\ContosoPetsApp\obj\Debug\net8.0\Starter.genruntimeconfig.cache
 C:\Users\Joel\Desktop\ContosoPetsApp\obj\Debug\net8.0\ref\Starter.dll
+C:\Users\Joel\Desktop\ContosoPetsApp\obj\Debug\net8.0\Starter.sourcelink.json
