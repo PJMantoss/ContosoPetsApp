@@ -104,7 +104,8 @@ do
     {
         case "1":
             // List all of our current pet information
-            Console.WriteLine("this app feature is coming soon - please check back to see progress.");
+            for ()
+            {}
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
