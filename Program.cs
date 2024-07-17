@@ -104,8 +104,13 @@ do
     {
         case "1":
             // List all of our current pet information
-            for ()
-            {}
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (ourAnimals[i, 0] != "ID #: ")
+                {
+                    Console.WriteLine(ourAnimals[i, 0]);
+                }
+            }
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
